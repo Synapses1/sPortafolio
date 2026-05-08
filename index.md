@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: mi primera pagina de portafolio
+
 ---
